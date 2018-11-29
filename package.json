@@ -1,0 +1,36 @@
+{
+  "name": "@ovh-ux/rollup-plugin-less-tilde-importer",
+  "version": "0.0.0",
+  "description": "A rollup plugin providing ~ (tilde) prefix as a way to tell less compiler that it should resolve path using a configured array of module directories",
+  "keywords": [
+    "less",
+    "plugin",
+    "rollup"
+  ],
+  "repository": "git@github.com:ovh-ux/rollup-plugin-less-tilde-importer.git",
+  "license": "BSD-3-Clause",
+  "author": "OVH SAS",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --quiet --fix .",
+    "test": "eslint --quiet .",
+    "version": "npx conventional-changelog-cli -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
+    "postversion": "git push && git push --tags"
+  },
+  "dependencies": {
+    "magic-string": "^0.25.1",
+    "rollup-pluginutils": "^2.3.3"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.1.2",
+    "@commitlint/config-angular": "^7.1.2",
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "husky": "^1.0.0",
+    "lint-staged": "^7.3.0"
+  }
+}
