@@ -2,6 +2,8 @@
 
 > A rollup plugin providing ~ (tilde) prefix as a way to tell less compiler that it should resolve path using a configured array of module directories.
 
+[![Downloads](https://badgen.net/npm/dt/@ovh-ux/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer) [![Dependencies](https://badgen.net/david/dep/ovh-ux/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer?activeTab=dependencies) [![Dev Dependencies](https://badgen.net/david/dev/ovh-ux/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer?activeTab=dependencies) [![Gitter](https://badgen.net/badge/gitter/ovh-ux/blue?icon=gitter)](https://gitter.im/ovh/ux)
+
 ## Install
 
 ```sh
