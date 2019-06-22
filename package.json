@@ -21,8 +21,8 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
-    "magic-string": "^0.25.1",
-    "rollup-pluginutils": "^2.3.3"
+    "magic-string": "^0.25.2",
+    "rollup-pluginutils": "^2.8.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.0.0",
