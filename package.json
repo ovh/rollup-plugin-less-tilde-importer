@@ -10,13 +10,17 @@
     "tilde",
     "tilde-importer"
   ],
-  "repository": "ovh-ux/rollup-plugin-less-tilde-importer",
+  "homepage": "https://github.com/ovh/rollup-plugin-less-tilde-importer#readme",
+  "bugs": {
+    "url": "https://github.com/ovh/rollup-plugin-less-tilde-importer/issues"
+  },
+  "repository": "ovh/rollup-plugin-less-tilde-importer",
   "license": "BSD-3-Clause",
   "author": "OVH SAS",
+  "main": "index.js",
   "files": [
     "index.js"
   ],
-  "main": "index.js",
   "scripts": {
     "lint": "eslint --quiet --fix .",
     "test": "eslint --quiet .",
