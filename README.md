@@ -2,7 +2,7 @@
 
 > A rollup plugin providing ~ (tilde) prefix as a way to tell less compiler that it should resolve path using a configured array of module directories.
 
-[![Downloads](https://badgen.net/npm/dt/@ovh-ux/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer) [![Dependencies](https://badgen.net/david/dep/ovh-ux/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer?activeTab=dependencies) [![Dev Dependencies](https://badgen.net/david/dev/ovh-ux/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer?activeTab=dependencies) [![Gitter](https://badgen.net/badge/gitter/ovh-ux/blue?icon=gitter)](https://gitter.im/ovh/ux)
+[![Downloads](https://badgen.net/npm/dt/@ovh-ux/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer) [![Dependencies](https://badgen.net/david/dep/ovh/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer?activeTab=dependencies) [![Dev Dependencies](https://badgen.net/david/dev/ovh/rollup-plugin-less-tilde-importer)](https://npmjs.com/package/@ovh-ux/rollup-plugin-less-tilde-importer?activeTab=dependencies) [![Gitter](https://badgen.net/badge/gitter/ovh-ux/blue?icon=gitter)](https://gitter.im/ovh/ux)
 
 ## Install
 
@@ -38,7 +38,7 @@ export default {
 
 ## Contributing
 
-Always feel free to help out! Whether it's [filing bugs and feature requests](https://github.com/ovh-ux/rollup-plugin-less-tilde-importer/issues/new) or working on some of the [open issues](https://github.com/ovh-ux/rollup-plugin-less-tilde-importer/issues), our [contributing guide](CONTRIBUTING.md) will help get you started.
+Always feel free to help out! Whether it's [filing bugs and feature requests](https://github.com/ovh/rollup-plugin-less-tilde-importer/issues/new) or working on some of the [open issues](https://github.com/ovh/rollup-plugin-less-tilde-importer/issues), our [contributing guide](CONTRIBUTING.md) will help get you started.
 
 ## License
 
