@@ -42,5 +42,8 @@
   },
   "peerDependencies": {
     "rollup": ">=1.15.0"
+  },
+  "resolutions": {
+    "minimist": "^1.2.2"
   }
 }
