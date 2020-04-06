@@ -28,7 +28,7 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
-    "magic-string": "^0.25.4",
+    "magic-string": "^0.25.7",
     "rollup-pluginutils": "^2.8.2"
   },
   "devDependencies": {
