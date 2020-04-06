@@ -1,6 +1,6 @@
 {
   "name": "@ovh-ux/rollup-plugin-less-tilde-importer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A rollup plugin providing ~ (tilde) prefix as a way to tell less compiler that it should resolve path using a configured array of module directories",
   "keywords": [
     "importer",
