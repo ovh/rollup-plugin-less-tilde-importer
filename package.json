@@ -24,7 +24,7 @@
   "scripts": {
     "format": "run -p format:js format:md",
     "format:js": "yarn run lint:js --fix",
-    "format:md": "yarn run lint:md -- --fix",
+    "format:md": "yarn run lint:md --fix",
     "lint": "run-p lint:js lint:md",
     "lint:js": "eslint --quiet index.js",
     "lint:md": "eslint --quiet --format=pretty --ext .md .",
