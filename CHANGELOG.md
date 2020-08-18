@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/ovh/rollup-plugin-less-tilde-importer/compare/v1.0.4...v1.0.5) (2020-08-18)
+
+
+### Bug Fixes
+
+* **deps:** add some resolutions ([f6981c5](https://github.com/ovh/rollup-plugin-less-tilde-importer/commit/f6981c50dd3576f4754e66f4efa5c10694925c9e))
+
+
+
 ## [1.0.4](https://github.com/ovh/rollup-plugin-less-tilde-importer/compare/v1.0.3...v1.0.4) (2020-07-01)
 
 
