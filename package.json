@@ -33,6 +33,7 @@
     "postversion": "git push && git push --tags"
   },
   "resolutions": {
+    "dot-prop": "4.2.1",
     "minimist": "^1.2.2"
   },
   "dependencies": {
